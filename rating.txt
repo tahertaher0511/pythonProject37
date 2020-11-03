@@ -1,0 +1,5 @@
+rock,paper,fire,human 100
+taher 1850
+mamma 750
+t 0
+ta 0
